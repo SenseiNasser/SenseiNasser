@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NasserCzar
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning python , C++ and ROS
+- 🌱 I’m currently learning Java , Python
 - 📫 How to reach me Twitter @SensiNasser
 
 <!---
