@@ -5,7 +5,7 @@ My interest is development, I work on random projects in my free time!
 
  
 
-- <H1> My Skills </H1>
+- <H1> My Skills. </H1>
  
   [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
 
@@ -15,6 +15,18 @@ My interest is development, I work on random projects in my free time!
 
 
   
+- <H1> My Projects Index. order by Language</H1>
+<H2>Python</H2>
+- Coming soon ...
+<H2>C++</H2>
+- Coming soon ...
+<H2>Java</H2>
+- Coming soon ...
+
+
+- <H1> My Social Accounts.</H1>
+ [![My Skills](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)   **- @SenseiNasser**
+
 
 
   
