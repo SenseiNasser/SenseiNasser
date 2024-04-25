@@ -1,11 +1,12 @@
 - <H1> Hi There 👋</H1>
 I'm **Nasser B Aldossery** - I'm a Computer vision specialist, **Computer Science** Student at <a href="https://seu.edu.sa/en/home/">**Saudi Electronic University**</a>.
 
-My interest is making prototypes, to develop it to be startup companies
+My interest is making prototypes, start-ups
 
 **University Senior Project: Football Analysis with ML/AI using Yolov8 Object detection**
 
-Voluntary works: as telegram groups founder for students in our university, i developed telegram bots that facilitate the student for study and prepare for exams works as mentor, i also linked it to GPT such as Gemini pro from Google, Also linked the files such study textbooks or powerpoint slides. 
+Voluntary works: soon ...
+certifications: soon ... 
 
 - <H1> My Skills. </H1>
  
