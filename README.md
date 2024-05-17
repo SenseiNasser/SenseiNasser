@@ -3,7 +3,7 @@ I'm **Nasser B Aldossery** - I'm a Computer vision specialist, **Computer Scienc
 
 My interest is making prototypes, start-ups
 
-**University Senior Project: Football Analysis with ML/AI using Yolov8 Object detection**
+**University Senior Project: InteliTalent: AI-Driven Platform for Comprehensive Football Talent Analysis and Scouting.**
 
 Voluntary works: coming soon ...
 
